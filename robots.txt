@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drueckglueck-login.de/sitemap.xml
